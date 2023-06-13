@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPTpractice</string>
+    <string name="talk_to_chat">Talk To Chat</string>
+    <string name="imgbtn">imgBtn</string>
+</resources>
